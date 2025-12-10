@@ -1,0 +1,5 @@
+{
+  "name": "App Idea Hunter",
+  "description": "An application to help entrepreneurs find profitable app ideas by analyzing real-world problems from various sources, powered by the Gemini API.",
+  "requestFramePermissions": []
+}
